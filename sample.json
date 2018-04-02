@@ -1,0 +1,38 @@
+[
+ {
+   "Artist": "Blek le Rat",
+   "Artist-Country": "France",
+   "Address": "100 East Broadway",
+   "Latitude": "44.049609",
+   "Longitude": "-123.091073",
+   "Description": "The Godfather of Stencil Art, Blek\nle Rat created ten works in Eugene,\nincluding the large scale “The Pied\nPiper” depicting his son playing a\nviolin.",
+   "PrimaryImage": "toDo"
+ },
+ {
+   "Artist": "Hush",
+   "Artist-Country": "United Kingdom",
+   "Address": "1334 Oak Alley",
+   "Latitude": "44.045145",
+   "Longitude": "-123.092064",
+   "Description": "\"Hush’s style draws upon elements of\nJapanese inuence, including anime\nand geishas. The graphic elements\nwere created with laser cut stencils.\nCan you spot Eugene hidden in the\ngarment?\"",
+   "PrimaryImage": "toDo"
+ },
+ {
+   "Artist": "Steven Lopez",
+   "Artist-Country": "USA",
+   "Address": "254 Lincoln Street",
+   "Latitude": "toDo",
+   "Longitude": "toDo",
+   "Description": "\"The UO graduate returned to Eugene\nto paint a subtle environmental\nmessage about the important role\nbees play in our food supply.",
+   "PrimaryImage": "toDo"
+ },
+ {
+   "Artist": "Ila Rose",
+   "Artist-Country": "USA",
+   "Address": "348 Lincoln Street",
+   "Latitude": "toDo",
+   "Longitude": "toDo",
+   "Description": "\"This Eugene artist represented her\nhometown during the international\nEugene Walls mural festival with a\ntwo-sided work inuenced by\nmythology and the natural world.\"",
+   "PrimaryImage": "toDo"
+ }
+]

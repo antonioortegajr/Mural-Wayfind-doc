@@ -2,9 +2,9 @@
 
 ## About
 
-This do is meant for anyone looking to create a way-finding experience based on the mural around Eugene OR
+This do is meant for anyone looking to create a way-finding experience based on the murals (or any local art really) around Eugene OR
 
-## Sample Mural Data
+## Sample Art Data
 
 Artist: Blek le Rat
 Artist-Country: France

@@ -24,7 +24,7 @@ Data Source: https://s3.amazonaws.com/uploads.hipchat.com/10705/2444240/8Qb0qf27
 
 ## Things I am looking for users
 
-* Upload new Mural Data
-* Update Mural Data
-* Find murals in Eugene
+* Upload new Local Art Data
+* Update Local Art Data
+* Find Local Art in Eugene
 * Share your selfies

@@ -22,9 +22,13 @@ JSON file available in this repo
 Data Source: https://s3.amazonaws.com/uploads.hipchat.com/10705/2444240/8Qb0qf27KrcZjkd/MuralBroc_4_web.pdf.pdf
 
 
-## Things I am looking for users
+## Needs
 
 * Upload new Local Art Data
 * Update Local Art Data
 * Find Local Art in Eugene
+
+## Would like
+
+* AR aspect
 * Share your selfies

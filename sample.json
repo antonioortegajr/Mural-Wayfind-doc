@@ -14,7 +14,7 @@
    "Address": "1334 Oak Alley",
    "Latitude": "44.045145",
    "Longitude": "-123.092064",
-   "Description": "\"Hush’s style draws upon elements of\nJapanese inuence, including anime\nand geishas. The graphic elements\nwere created with laser cut stencils.\nCan you spot Eugene hidden in the\ngarment?\"",
+   "Description": "\"Hush’s style draws upon elements of\nJapanese infuence, including anime\nand geishas. The graphic elements\nwere created with laser cut stencils.\nCan you spot Eugene hidden in the\ngarment?\"",
    "PrimaryImage": "toDo"
  },
  {
@@ -33,6 +33,6 @@
    "Latitude": "toDo",
    "Longitude": "toDo",
    "Description": "\"This Eugene artist represented her\nhometown during the international\nEugene Walls mural festival with a\ntwo-sided work inuenced by\nmythology and the natural world.\"",
-   "PrimaryImage": "toDo"
+   "PrimaryImage": "https://s3-us-west-2.amazonaws.com/h4c-mural/IMG_0403b.jpg"
  }
 ]

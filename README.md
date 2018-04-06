@@ -2,7 +2,7 @@
 
 ## About
 
-This do is meant for anyone looking to create a way-finding experience based on the murals (or any local art really) around Eugene OR
+This do is meant for anyone looking to create a mobile (native or mobile web, both are good.) way-finding experience based on the murals (or any local art really) around Eugene OR
 
 ## Sample Art Data
 
@@ -24,11 +24,12 @@ Data Source: https://s3.amazonaws.com/uploads.hipchat.com/10705/2444240/8Qb0qf27
 
 ## Needs
 
-* Upload new Local Art Data
-* Update Local Art Data
-* Find Local Art in Eugene
+* Upload new Local Art Data from mobile
+* Update Local Art Data from mobile
+* Find Local Art in Eugene on mobile
 
 ## Would like
 
 * AR aspect
 * Share your selfies
+* get lat and long from address

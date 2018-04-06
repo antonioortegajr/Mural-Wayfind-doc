@@ -15,23 +15,23 @@
    "Latitude": "44.045145",
    "Longitude": "-123.092064",
    "Description": "\"Hush’s style draws upon elements of\nJapanese infuence, including anime\nand geishas. The graphic elements\nwere created with laser cut stencils.\nCan you spot Eugene hidden in the\ngarment?\"",
-   "PrimaryImage": "toDo"
+   "PrimaryImage": ""
  },
  {
    "Artist": "Steven Lopez",
    "Artist-Country": "USA",
    "Address": "254 Lincoln Street",
-   "Latitude": "toDo",
-   "Longitude": "toDo",
+   "Latitude": "",
+   "Longitude": "",
    "Description": "\"The UO graduate returned to Eugene\nto paint a subtle environmental\nmessage about the important role\nbees play in our food supply.",
-   "PrimaryImage": "toDo"
+   "PrimaryImage": ""
  },
  {
    "Artist": "Ila Rose",
    "Artist-Country": "USA",
    "Address": "348 Lincoln Street",
-   "Latitude": "toDo",
-   "Longitude": "toDo",
+   "Latitude": "",
+   "Longitude": "",
    "Description": "\"This Eugene artist represented her\nhometown during the international\nEugene Walls mural festival with a\ntwo-sided work inuenced by\nmythology and the natural world.\"",
    "PrimaryImage": "https://s3-us-west-2.amazonaws.com/h4c-mural/IMG_0403b.jpg"
  }
